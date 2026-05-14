@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ash</h1>
+<h1 align="center">Hey 👋, I'm Ashwitha</h1>
 <h3 align="center">AI • Data Science • Full Stack • Open Source</h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Welcome%20To%20My%20Profile&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-### 🚀 B.E CSE Student | AI & Data Science Enthusiast | Open Source Contributor
+### 🚀 B.E 2nd year CSE Student | AI & Data Science Enthusiast | Open Source Contributor
 
 I’m a Computer Science Engineering student passionate about building impactful tech, exploring AI-driven solutions, and constantly learning through real-world development.
 
@@ -27,7 +27,7 @@ Currently focused on:
 # 🌐 About Me
 
 ```yaml
-Name: Ash
+Name: Ashwitha
 Role: CSE Undergraduate
 Location: Karnataka, India
 Interests:
